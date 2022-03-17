@@ -1,5 +1,7 @@
 # clygon
 
+Official PyPI: https://pypi.org/project/clygon/0.0.5/
+
 Clygon is a library built to calculate everything from circles to polygons. You can calculate the interior angles of a polygon, or the area of any n-gon, and even the arc length, radius, or central angle of a circle.
 
 To install the package, run `pip install clygon==0.0.5` in your terminal or cmd prompt.
