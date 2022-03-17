@@ -2,7 +2,7 @@
 
 Clygon is a library built to calculate everything from circles to polygons. You can calculate the interior angles of a polygon, or the area of any n-gon, and even the arc length, radius, or central angle of a circle.
 
-To install the package, run `pip install clygon` in your terminal or cmd prompt.
+To install the package, run `pip install clygon==0.0.5` in your terminal or cmd prompt.
 
 How can I use it?
 
@@ -83,4 +83,9 @@ print("The formula to solve for the central angle is: ", finder_form())
 
 Output:
 ```
+Area: 201.06192982974676
+The area of some of the circle is: 22.340214425527417
+The perimeter is: 50.26548245743669
+If the arc length is 50, the central angle is:  358.09862195676453
+The formula to solve for the central angle is:  The formula is: Arc Length = (Central angle * π * Radius)/180  
 ```
